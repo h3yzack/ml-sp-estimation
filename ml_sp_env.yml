@@ -1,0 +1,25 @@
+name: ml_sp_env
+channels:
+  - conda-forge
+  - defaults
+  - fastai
+  - pytorch
+dependencies:
+  - python=3.11.9
+  - ipython
+  - ipykernel
+  - numpy
+  - pip
+  - keras=2.15.0
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - tensorflow=2.15.0
+  - nltk
+  - html2text
+  - transformers=4.37.2
+  - ipywidgets
+  - gensim
+  - datasets
+  - scipy=1.12
