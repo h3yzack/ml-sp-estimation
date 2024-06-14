@@ -1,6 +1,8 @@
 # Machine Learning-Based Approach for Story Points Estimation
 
-## Setup environment
+## Ensemble Stacking with RoBERTA & BiLSTM
+
+### Setup environment
 
 - Install Anaconda
 - Create environment:
@@ -8,18 +10,18 @@
 
 - Execute additional requirements in info.ipynb
 
-## Preprocessing (preprocess.ipynb)
+### Preprocessing (preprocess.ipynb)
 
 Run all in order...
 
-## RoBERTa (roberta-base.ipynb)
+### RoBERTa (roberta-base.ipynb)
 
 // todo
 
-## BiLSTM
+### BiLSTM
 
 // todo
 
-## Stacking
+### Stacking
 
 // todo
